@@ -16,7 +16,7 @@ I am 33 years old, I'm a designer.
     * Corner radius 10px
 
 > **Keep learning...**
-    * Promodoro technique 
+    * Pomodoro technique 
 
 # Skills
 
