@@ -17,7 +17,7 @@ I am 33 years old, I'm a designer.
 
 > **Keep learning...**
     * Pomodoro technique 
-> 
+
 # Skills
 
 * Oldschool design thinking
