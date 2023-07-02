@@ -20,10 +20,11 @@ I am 33 years old, I'm a designer.
 > 
 # Skills
 
-* oldschool design thinking
+* Oldschool design thinking
 * Industrial design
-* hardware development 
+* Hardware development 
 * 3d printing (building and supporting industrial FDM printers)
+* Reverse engenering 
 
 
 # Education
@@ -35,4 +36,4 @@ I am 33 years old, I'm a designer.
 
 * **Russian** - native speaker.
 * **English** - B1
-* **POlish** - B2
+* **Polish** - B2
