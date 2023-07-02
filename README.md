@@ -1,2 +1,3 @@
 # rsschool-cv
-1
+
+Ссылка на CV [https://hackintosh-by.github.io/rsschool-cv/cv]
